@@ -12,7 +12,6 @@
 - [How can I participate as a project developer on Bitlink Chain?](#how-can-i-participate-as-a-project-developer-on-bitlink-chain)
 - [What security measures are taken to protect users on the Bitlink Chain blockchain?](#what-security-measures-are-taken-to-protect-users-on-the-bitlink-chain-blockchain)
 - [What are the most promising projects currently in development on Bitlink Chain?](#what-are-the-most-promising-projects-currently-in-development-on-bitlink-chain)
-
 ## What is Bitlink Chain?
 Bitlink Chain is a groundbreaking blockchain designed to propel the future of decentralized finance.
 As an innovative ecosystem, Bitlink Chain provides a conducive environment for visionary creators, ingenious developers, and innovative investors.
